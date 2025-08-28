@@ -17,7 +17,6 @@
 - 🌐 **Front-end:** HTML, CSS, JavaScript  
 - 🐍 **Python:** automação de processos e desenvolvimento de scripts  
 - ⚙️ **C++:** compiladores, estruturas de dados e lógica de programação  
-- 📊 **Análise de Dados:** fundamentos de Big Data e Inteligência Artificial  
 
 ---
 
