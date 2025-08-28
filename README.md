@@ -6,6 +6,13 @@
 
 ---
 
+## 🏫 Formação Complementar (Infinity School)  
+- 💻 **H&CIA | HTML & CSS com IA** — Concluído (8/8)  
+- ⚡ **JSIA | JavaScript com IA** — Em andamento (16/16)  
+- 🔢 **LPIA | Lógica de Programação com IA** — Concluído (4/4) 
+
+---
+
 ## 🔧 Competências Técnicas  
 - 🌐 **Front-end:** HTML, CSS, JavaScript  
 - 🐍 **Python:** automação de processos e desenvolvimento de scripts  
