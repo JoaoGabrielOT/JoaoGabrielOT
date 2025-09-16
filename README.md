@@ -10,7 +10,7 @@
 
 🎓 **Estudante de Ciência da Computação** na UniBH (6º/8º período)  
 💻 **Desenvolvedor Full Stack** apaixonado por tecnologia e inovação  
-🔍 **Especialista em automação** e soluções web eficientes  
+🔍 **Aficionado em automação** e soluções web eficientes  
 🎮 **Entusiasta de modding** e desenvolvimento de jogos  
 🌱 **Sempre aprendendo** e explorando novas tecnologias
 
