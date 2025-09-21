@@ -20,7 +20,7 @@
 
 ### 🏫 Infinity School
 
-<table>
+<table align="center">
 <tr>
 <td align="center">
 <img src="https://img.shields.io/badge/HTML%20%26%20CSS%20com%20IA-100%25-success?style=for-the-badge&logo=html5&logoColor=white" alt="HTML & CSS" />
